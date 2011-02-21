@@ -1,0 +1,8 @@
+A simple site update checker that speaks!
+
+This is a demo project created for a presentation at a SHRUG (Stockholm Ruby User Group) meeting.
+
+Install MacRuby http://macruby.org and open in XCode to build the project. You also need the httparty gem installed:
+$ macgem install httparty
+
+The meat of the project is in main_window_controller.rb and in the xib.
